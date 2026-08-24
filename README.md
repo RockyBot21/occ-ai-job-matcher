@@ -51,8 +51,7 @@ URL_OCC_MUNDIAL=https://www.occ.com.mx/
 LOCATION_SEARCH_JOB=Ciudad de Mexico
 
 # ===== Path files =====
-FOLDER_INPUT=<Tu ruta de CVs>
-FOLDER_OUTPUT=<Tu ruta de resultados>
+FOLDER_INPUT=<PATH_FOR_CV_FILE>
 IMG_ERROR_NAME=Error.jpg
 
 # ===== Credencial OCC =====

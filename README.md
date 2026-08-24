@@ -76,10 +76,11 @@ MATCH_TO_EXPECT=70
 ## Usage and folder creation
 
 Create folder and put CV in PDF format
-
+```
 FOLDER_INPUT/
 ├── mi_cv.pdf                    # Your CV in PDF format
 └── cv_summary.json              # Automatically generated
+```
 
 ---
 

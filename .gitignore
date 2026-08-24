@@ -1,0 +1,6 @@
+# Omit binari files
+__pycache__/
+.py[cod]
+
+# omit .env files
+.env

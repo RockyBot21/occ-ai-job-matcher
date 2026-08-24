@@ -1,0 +1,13 @@
+python-dotenv==1.0.1
+pathlib==1.0.1
+pypdf==3.17.4
+langchain==0.1.0
+langchain-core==0.1.0
+langchain-ollama==0.1.0
+ollama==0.2.1
+selenium==4.15.2
+webdriver-manager==4.0.1
+opencv-python==4.8.1.78
+pyautogui==0.9.54
+numpy==1.24.3
+typing-extensions==4.8.0
